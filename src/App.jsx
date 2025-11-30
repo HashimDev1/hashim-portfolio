@@ -1,15 +1,11 @@
 import { useState } from "react";
-
-import TemplateA from "./TemplateA.jsx";
-
+import Porfolio from "./Porfolio.jsx";
 import "./portfolio.css";
-
 function App() {
   return (
     <>
-      <TemplateA />
+      <Porfolio />
     </>
   );
 }
-
 export default App;
