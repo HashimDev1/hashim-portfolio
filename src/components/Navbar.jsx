@@ -10,12 +10,12 @@ const socials = [
   },
   {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/your-username",
+    href: "https://www.linkedin.com/in/muhammad-hashim-82518b280",
     Icon: FaLinkedin,
   },
   {
     name: "Twitter",
-    href: "https://twitter.com/your-username",
+    href: "https://twitter.com/HashimKhan43875",
     Icon: FaTwitter,
   },
 ];
